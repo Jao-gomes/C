@@ -1,1 +1,1 @@
-Aqui eu irei fazer os exercícios e projetos referentes a C do curso da Udemy!!!!
+Aqui eu irei fazer os exercícios e projetos referentes a C do curso do youtube!!!!
