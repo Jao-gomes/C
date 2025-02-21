@@ -18,4 +18,5 @@ int main() {
 
   printf("A soma dos quadrados dos números digitados são: %.0f \n", sumOfSquares);
 
+  return 0;
 }
